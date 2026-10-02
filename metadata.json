@@ -1,0 +1,6 @@
+{
+  "name": "북스파크(BookSpark) - 독서 & AI 문구 생성 에이전트",
+  "description": "책 요약, 3줄 리뷰, 감성 블로그·노션 리뷰, SNS 맞춤형 숏폼(인스타그램·트위터·쓰레드), 독서 모임 발제문 및 캘리그라피 문구를 원클릭으로 작성해 주는 독서 AI 에이전트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

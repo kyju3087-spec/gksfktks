@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif;
+  }
+}
+
+.font-serif-kr {
+  font-family: 'Nanum Myeongjo', 'MaruBuri', Georgia, serif;
+}
+
+.font-sans-kr {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif;
+}
+
+/* Paper texture subtle styling */
+.paper-bg {
+  background-color: #fdfbf7;
+  background-image: radial-gradient(#e5dfd3 0.75px, transparent 0.75px);
+  background-size: 24px 24px;
+}
